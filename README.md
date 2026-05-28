@@ -1,7 +1,9 @@
 客服微信：vayi_wx
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6bfe9431-a539-4839-824f-6a6e8fe16647" />
 
-操作步骤
+## 操作步骤
+
 1、联系客服获取密钥
 
 2、使用密钥进行账号的注册
